@@ -71,7 +71,7 @@ body
     background-image: url("../Images/index/upperBackground/1.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: auto;
+    background-size: cover;
     animation: slide 24s infinite;
 }
 @keyframes slide
