@@ -6,3 +6,15 @@
 {
     display: flex;
 }
+.socialMediaIndividualDiv a
+{
+    /* margin-left: 100%/; */
+}
+.contactDetailsInContactUs
+{
+    text-align: center;
+}
+.contactDetailsInContactUsDiv
+{
+    padding-bottom: 5%;
+}
